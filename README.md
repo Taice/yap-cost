@@ -13,5 +13,7 @@ git (technically)
 linux(but not really though)
 
 ## how to use
+```
 ./target/release/yap-cost insert sigma-boi 388103848
 ./target/release/yap-cost
+```
