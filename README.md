@@ -8,11 +8,9 @@ cd yap-cost
 cargo build --release
 ```
 ## what do i need
-rust
-
-git (technically)
-
-linux(but not really though)
+- rust
+- git (technically)
+- linux(but not really though)
 
 ## how to use
 ```
